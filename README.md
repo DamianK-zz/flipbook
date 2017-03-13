@@ -1,5 +1,5 @@
-flipbook
-========
+flipbook (soon to be replaced)
+==============================
 
 NOTE: This repo is old. I'm preparing a new one with support for different PHP frameworks and an updated php version support.
 
