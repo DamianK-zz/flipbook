@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8" />
     <title>Offerts</title>
-<!-- TODO: test -->
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
     <!-- required files for booklet -->
@@ -30,7 +29,7 @@
 	</header>
 	<section>
 	    <div id="mybook">
-<!-- $i has the number of pages -->
+		<!-- $i has the number of pages -->
 	    	<?php
 	    	for ($i = 1; $i <= 16; $i++) {
 	        	echo '<div title="page ' .$i. '1">';
